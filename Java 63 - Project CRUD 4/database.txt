@@ -1,0 +1,10 @@
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,purcell,wiley,calculus
+faqihza_2019_1,2019,faqihza,gramedia,belajar C++
+faqihza_2019_2,2019,faqihza,gramedia,belajar python
+faqihza_2019_3,2019,faqihza,gramedia,belajar Java
+jokowi_1987_1,1987,jokowi,KAGAMA,UGM
+Ganjar_1999_1,1999,Ganjar,KAGAMA,UGM
+Gibran_2011_1,2011,Gibran,Univ Aussie,2.34
+Gibran_2011_2,2011,Gibran,MPR RI,anak Jokowi
